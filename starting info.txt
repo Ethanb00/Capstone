@@ -1,0 +1,8 @@
+Good coordinates for Normandy:
+
+Top left							Top right
+Bottom left							Bottom left
+49.443129, -1.115541				49.419907, -0.280581
+49.330492, -1.112795				49.285723, 0.018797
+
+
